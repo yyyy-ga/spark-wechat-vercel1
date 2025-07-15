@@ -9,7 +9,7 @@
   "keywords": [
     "wehcat-bot"
   ],
-    "type": "module"，
+    "type": "module",
   "author": "ergou",
   "license": "ISC",
   "dependencies": {
